@@ -2,6 +2,11 @@
 
 use Illuminate\Support\Facades\Route;
 
+
+//Controllers
+use App\Http\Controllers\ClientsController;
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,9 +18,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+
+// });
+Route::get('/clientes/cadastrar', [ClientsController::class,'index']);//->name('clientes.cadastrar');
+Route::post('/clientes/save', 'ClientsController@cadastrar');//->name('clientes.save');
+Route::get('/clientes/todos', [ClientsController::class,'lista']);//->name('clientes.todos');
+Route::post('/cliente/editar', 'ClientsController@editar');//->name('clientes.editar');
+Route::post('/cliente/saveeditar', 'ClientsController@saveEditar');//->name('clientes.saveEdit');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
