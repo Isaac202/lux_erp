@@ -2,11 +2,6 @@
 
 use Illuminate\Support\Facades\Route;
 
-
-//Controllers
-use App\Http\Controllers\ClientsController;
-
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -18,18 +13,54 @@ use App\Http\Controllers\ClientsController;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
+Route::get('/', function () {
+    return view('welcome');
+});
 
-// });
-Route::get('/clientes/cadastrar', [ClientsController::class,'index']);//->name('clientes.cadastrar');
-Route::post('/clientes/save', 'ClientsController@cadastrar');//->name('clientes.save');
-Route::get('/clientes/todos', [ClientsController::class,'lista']);//->name('clientes.todos');
-Route::post('/cliente/editar', 'ClientsController@editar');//->name('clientes.editar');
-Route::post('/cliente/saveeditar', 'ClientsController@saveEditar');//->name('clientes.saveEdit');
+Auth::routes();
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth'])->name('dashboard');
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Auth::routes();
 
-require __DIR__.'/auth.php';
+Route::get('/home', 'App\Http\Controllers\HomeController@index')->name('home')->middleware('auth');
+
+Route::group(['middleware' => 'auth'], function () {
+	Route::get('clientes-list', function () {
+		return view('pages.table_list');
+	})->name('clientes-list');
+	Route::get('clientes', function () {
+		return view('pages.create_clientes');
+	})->name('clientes');
+
+	Route::get('typography', function () {
+		return view('pages.typography');
+	})->name('typography');
+
+	Route::get('icons', function () {
+		return view('pages.icons');
+	})->name('icons');
+
+	Route::get('map', function () {
+		return view('pages.map');
+	})->name('map');
+
+	Route::get('notifications', function () {
+		return view('pages.notifications');
+	})->name('notifications');
+
+	Route::get('rtl-support', function () {
+		return view('pages.language');
+	})->name('language');
+
+	Route::get('upgrade', function () {
+		return view('pages.upgrade');
+	})->name('upgrade');
+});
+
+Route::group(['middleware' => 'auth'], function () {
+	Route::resource('user', 'App\Http\Controllers\UserController', ['except' => ['show']]);
+	Route::get('profile', ['as' => 'profile.edit', 'uses' => 'App\Http\Controllers\ProfileController@edit']);
+	Route::put('profile', ['as' => 'profile.update', 'uses' => 'App\Http\Controllers\ProfileController@update']);
+	Route::put('profile/password', ['as' => 'profile.password', 'uses' => 'App\Http\Controllers\ProfileController@password']);
+});
+
