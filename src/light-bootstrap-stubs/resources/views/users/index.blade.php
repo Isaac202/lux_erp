@@ -4,10 +4,10 @@
 =========================================================
 
  Product Page: https://www.creative-tim.com/product/light-bootstrap-dashboard
- Copyright 2019 Creative Tim (https://www.creative-tim.com) & UPDIVISION (https://www.updivision.com)
+ Copyright 2019ERP LUX (https://www.creative-tim.com) & UPDIVISION (https://www.updivision.com)
  Licensed under MIT (https://github.com/creativetimofficial/light-bootstrap-dashboard/blob/master/LICENSE)
 
- Coded by Creative Tim & UPDIVISION
+ Coded byERP LUX & UPDIVISION
 
 =========================================================
 
@@ -33,12 +33,12 @@
  
          <!-- Canonical SEO -->
          <link rel="canonical" href="https://www.creative-tim.com/product/light-bootstrap-dashboard-laravel" />        <!--  Social tags      -->
-         <meta name="keywords" content="design system, dashboard, bootstrap 4 dashboard, bootstrap 4 design, bootstrap 4 system, bootstrap 4, bootstrap 4 uit kit, bootstrap 4 kit, light bootstrap, light bootstrap dashboard, creative tim,updivision, html dashboard, html css template, web template, bootstrap, bootstrap 4, css3 template, frontend, responsive bootstrap template, bootstrap dashboard, responsive dashboard, laravel, laravel php, laravel php framework, free laravel admin template, free laravel admin, free laravel admin template + Front End + CRUD, crud laravel php, crud laravel, laravel backend admin dashboard">
+         <meta name="keywords" content="design system, dashboard, bootstrap 4 dashboard, bootstrap 4 design, bootstrap 4 system, bootstrap 4, bootstrap 4 uit kit, bootstrap 4 kit, light bootstrap, light bootstrap dashboard,ERP LUX,updivision, html dashboard, html css template, web template, bootstrap, bootstrap 4, css3 template, frontend, responsive bootstrap template, bootstrap dashboard, responsive dashboard, laravel, laravel php, laravel php framework, free laravel admin template, free laravel admin, free laravel admin template + Front End + CRUD, crud laravel php, crud laravel, laravel backend admin dashboard">
          <meta name="description" content="Start your development with a Bootstrap 4 Admin Dashboard built for Laravel Framework 5.5 and Up.">
  
  
          <!-- Schema.org markup for Google+ -->
-         <meta itemprop="name" content="Light Bootstrap Dashboard Laravel by Creative Tim & UPDIVISION">
+         <meta itemprop="name" content="Light Bootstrap Dashboard Laravel byERP LUX & UPDIVISION">
          <meta itemprop="description" content="Start your development with a Bootstrap 4 Admin Dashboard built for Laravel Framework 5.5 and Up.">
  
          <meta itemprop="image" content="https://s3.amazonaws.com/creativetim_bucket/products/213/opt_lbd_laravel_thumbnail.jpg">
@@ -46,7 +46,7 @@
          <!-- Twitter Card data -->
          <meta name="twitter:card" content="product">
          <meta name="twitter:site" content="@creativetim">
-         <meta name="twitter:title" content="Light Bootstrap Dashboard Laravel by Creative Tim & UPDIVISION">
+         <meta name="twitter:title" content="Light Bootstrap Dashboard Laravel byERP LUX & UPDIVISION">
  
          <meta name="twitter:description" content="Start your development with a Bootstrap 4 Admin Dashboard built for Laravel Framework 5.5 and Up.">
          <meta name="twitter:creator" content="@creativetim">
@@ -54,7 +54,7 @@
  
          <!-- Open Graph data -->
          <meta property="fb:app_id" content="655968634437471">
-         <meta property="og:title" content="Light Bootstrap Dashboard Laravel by Creative Tim & UPDIVISION" />
+         <meta property="og:title" content="Light Bootstrap Dashboard Laravel byERP LUX & UPDIVISION" />
          <meta property="og:type" content="article" />
          <meta property="og:url" content="https://www.creative-tim.com/live/light-bootstrap-dashboard-laravel" />
          <meta property="og:image" content="https://s3.amazonaws.com/creativetim_bucket/products/213/opt_lbd_laravel_thumbnail.jpg"/>

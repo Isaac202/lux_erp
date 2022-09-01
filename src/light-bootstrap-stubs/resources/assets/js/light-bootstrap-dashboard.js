@@ -3,10 +3,10 @@
 // =========================================================
 //
 //  Product Page: https://www.creative-tim.com/product/light-bootstrap-dashboard-laravel
-//  Copyright 2019 Creative Tim (https://www.creative-tim.com) & Updivision (https://www.updivision.com)
+//  Copyright 2019ERP LUX (https://www.creative-tim.com) & Updivision (https://www.updivision.com)
 //  Licensed under MIT (https://github.com/creativetimofficial/light-bootstrap-dashboard-laravel/blob/master/LICENSE)
 //
-//  Coded by Creative Tim & Updivision
+//  Coded byERP LUX & Updivision
 //
 // =========================================================
 //

@@ -16,7 +16,7 @@
 
 
     <!-- Schema.org markup for Google+ -->
-    <meta itemprop="name" content="Material Dashboard Laravel by Creative Tim">
+    <meta itemprop="name" content="Material Dashboard Laravel byERP LUX">
     <meta itemprop="description" content="Material Dashboard Laravel is a Free Material Bootstrap Admin Preset for Laravel with a fresh, new design inspired by Google's Material Design.">
 
     <meta itemprop="image" content="https://s3.amazonaws.com/creativetim_bucket/products/154/opt_md_laravel_thumbnail.jpg">
@@ -25,7 +25,7 @@
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="product">
     <meta name="twitter:site" content="@creativetim">
-    <meta name="twitter:title" content="Material Dashboard Laravel by Creative Tim">
+    <meta name="twitter:title" content="Material Dashboard Laravel byERP LUX">
 
     <meta name="twitter:description" content="Material Dashboard Laravel is a Free Material Bootstrap Admin Preset for Laravel with a fresh, new design inspired by Google's Material Design.">
     <meta name="twitter:creator" content="@creativetim">
@@ -34,7 +34,7 @@
 
     <!-- Open Graph data -->
     <meta property="fb:app_id" content="655968634437471">
-    <meta property="og:title" content="Material Dashboard Laravel by Creative Tim" />
+    <meta property="og:title" content="Material Dashboard Laravel byERP LUX" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://material-dashboard-laravel.creative-tim.com/" />
     <meta property="og:image" content="https://s3.amazonaws.com/creativetim_bucket/products/154/opt_md_laravel_thumbnail.jpg"/>
@@ -293,7 +293,7 @@
     <ul>
       <li>
         <a href="https://www.creative-tim.com">
-            Creative Tim
+           ERP LUX
         </a>
       </li>
       <li>

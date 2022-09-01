@@ -5,7 +5,7 @@
  =========================================================
 
  * Product Page: https://www.creative-tim.com/product/material-dashboard
- * Copyright 2018 Creative Tim (http://www.creative-tim.com)
+ * Copyright 2018ERP LUX (http://www.creative-tim.com)
 
  * Designed by www.invisionapp.com Coded by www.creative-tim.com
 
@@ -199,7 +199,7 @@ md = {
           tension: 0
         }),
         low: 0,
-        high: 50, // creative tim: we recommend you to set the high sa the biggest value + something for a better look
+        high: 50, //ERP LUX: we recommend you to set the high sa the biggest value + something for a better look
         chartPadding: {
           top: 0,
           right: 0,
@@ -324,7 +324,7 @@ md = {
           tension: 0
         }),
         low: 0,
-        high: 50, // creative tim: we recommend you to set the high sa the biggest value + something for a better look
+        high: 50, //ERP LUX: we recommend you to set the high sa the biggest value + something for a better look
         chartPadding: {
           top: 0,
           right: 0,
@@ -353,7 +353,7 @@ md = {
           tension: 0
         }),
         low: 0,
-        high: 1000, // creative tim: we recommend you to set the high sa the biggest value + something for a better look
+        high: 1000, //ERP LUX: we recommend you to set the high sa the biggest value + something for a better look
         chartPadding: {
           top: 0,
           right: 0,
@@ -657,7 +657,7 @@ md = {
           className: 'event-azure'
         },
         {
-          title: 'Click for Creative Tim',
+          title: 'Click forERP LUX',
           start: new Date(y, m, 21),
           end: new Date(y, m, 22),
           url: 'http://www.creative-tim.com/',

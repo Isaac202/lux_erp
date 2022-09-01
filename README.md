@@ -417,25 +417,25 @@ We use GitHub Issues as the official bug tracker for the Light Bootstrap Dashboa
 
 ## Licensing
 
-- Copyright Creative Tim (https://www.creative-tim.com/?ref=lbdl-readme)
+- CopyrightERP LUX (https://www.creative-tim.com/?ref=lbdl-readme)
 - Licensed under MIT (https://github.com/laravel-frontend-presets/light-bootstrap-dashboard/blob/master/license.md)
 
 ## Useful Links
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=lbdl-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/?ref=lbdl-readme)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=lbdl-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=lbdl-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=lbdl-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=lbdl-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=lbdl-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=lbdl-readme) from Creative Tim
+- [BlogERP LUX](http://blog.creative-tim.com/?ref=lbdl-readme)
+- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=lbdl-readme) fromERP LUX
+- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=lbdl-readme) fromERP LUX
+- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=lbdl-readme) fromERP LUX
+- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=lbdl-readme) fromERP LUX
+- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=lbdl-readme) fromERP LUX
+- [More products](https://www.creative-tim.com/bootstrap-themes?ref=lbdl-readme) fromERP LUX
 - Check our Bundles [here](https://www.creative-tim.com/bundles??ref=lbdl-readme)
 
 ### Social Media
 
-### Creative Tim:
+###ERP LUX:
 
 Twitter: <https://twitter.com/CreativeTim?ref=lbdl-readme>
 
